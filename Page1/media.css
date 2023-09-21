@@ -1,0 +1,13 @@
+@media (max-width: 575.98px){
+    .sci{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 50vh;
+    }
+    .logo{
+        width: 100%;
+    }
+    .logo h1{
+        font-size: 1em;
+    }
+}
